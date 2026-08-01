@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.cfg
+cstrike_downloads/
+valve_downloads/
+*.pak
+*.cache
