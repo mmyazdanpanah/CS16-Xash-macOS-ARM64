@@ -1,5 +1,7 @@
 #!/bin/bash
 
-cd "$(dirname "$0")/.." || exit 1
+GAME_DIR="$HOME/Games/CS16-Xash"
+
+cd "$GAME_DIR" || exit 1
 
 exec ./xash3d -game cstrike
