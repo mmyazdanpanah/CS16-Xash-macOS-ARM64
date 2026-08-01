@@ -1,7 +1,14 @@
 *.log
 *.tmp
 *.cfg
-cstrike_downloads/
-valve_downloads/
+*.bak
+*.db
+*.dt
+*.hpk
+*.lst
 *.pak
 *.cache
+.DS_Store
+
+cstrike_downloads/
+valve_downloads/
