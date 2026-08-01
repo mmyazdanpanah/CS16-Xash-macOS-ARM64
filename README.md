@@ -29,3 +29,27 @@ cstrike/cl_dlls/client.dylib
 cstrike/cl_dlls/menu.dylib
 cstrike/dlls/cs.dylib
 
+## Credits
+
+This project is made possible by the work of:
+
+- **Xash3D FWGS**  
+  Open-source GoldSrc engine recreation.
+
+  https://github.com/FWGS/xash3d-fwgs
+
+- **ReGameDLL_CS**  
+  Reverse-engineered Counter-Strike game DLL implementation.
+
+  https://github.com/s1lentq/ReGameDLL_CS
+
+- **cs16-client**  
+  Community ARM64 client build support.
+
+  https://code.nephatrine.net/QuakeArchive/cs16-client
+
+- **Valve Software**  
+  Original Counter-Strike and GoldSrc engine creators.
+
+This repository does not include original Counter-Strike game assets.
+Users must provide their own legally obtained game files.
