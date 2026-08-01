@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ~/Games/CS16-Xash
+
+./xash3d -game cstrike -gl
