@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")/.." || exit 1
 
-./xash3d -game cstrike
+exec ./xash3d -game cstrike
